@@ -86,7 +86,7 @@ Metrics computed:
 - F1-score  
 - Confusion Matrix  
 
-## Accuracy: 0.91
+#### Accuracy: 0.91
 
 Example:
 <img width="1508" height="865" alt="Screenshot 2025-12-06 063738" src="https://github.com/user-attachments/assets/297429c2-5aa8-45b7-9ef2-c4e32d840ca6" />
